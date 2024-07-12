@@ -1,2 +1,2 @@
-# Projeto em python feito no curso da Hashtag Programação
+# Projeto em Python feito no curso da Hashtag Programação
 
